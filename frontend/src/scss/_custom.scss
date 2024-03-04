@@ -1,0 +1,87 @@
+// Here you can add other styles
+.card.user_manage_header .p-card-content {
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0;
+}
+
+.add_button {
+  width: 150px;
+  height: 40px;
+}
+
+.add_button button {
+  width: 100%;
+}
+
+.add_button button span {
+  font-weight: 600;
+}
+
+.plus_icon {
+  position: absolute;
+  top: 14px;
+  right: 17px;
+  color: white;
+}
+
+// .card {
+//     // background: var(--surface-card);
+//     padding: 2rem;
+//     border-radius: 10px;
+//     margin-bottom: 1rem;
+// }
+
+// .userTableList table, th, td {
+//     border: 1px solid gray;
+//     // border: 2px solid black;
+//     // background-color:lightgray;
+//     padding:10px;
+//     border-collapse:collapse;
+
+//   }
+
+.userTableListContainer {
+  margin-top: 40px;
+  padding: 24px;
+}
+
+.p-card.p-component.flex.justify-content-between.align-items-center.user_manage_header {
+  display: block !important;
+}
+
+.p-button {
+  padding: 5px 10px !important;
+  height: 40px !important;
+}
+.p-button span {
+  font-size: 14px !important;
+}
+
+.option_btn {
+  background: green;
+  color: aliceblue;
+  border: 0;
+  padding: 5px 30px;
+}
+
+.option_btn a {
+  text-decoration: none;
+  color: white;
+}
+
+.flexBox {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  padding-bottom: 20px;
+}
+
+.userIcon {
+}
+
+.user_profile_header {
+  left: 23%;
+  top: 43%;
+}
